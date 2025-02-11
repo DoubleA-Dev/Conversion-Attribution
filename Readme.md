@@ -1,3 +1,4 @@
+````
 <script>
 (function(){
 	var a = document.createElement('script');
@@ -321,3 +322,4 @@ var interval = setInterval(function() {
   }, 500); 
 
 </script>
+````
